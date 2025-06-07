@@ -1,0 +1,9 @@
+[submodule "TaskManagerAPI"]
+	path = TaskManagerAPI
+	url = https://github.com/Fuipon/TaskManagerAPI.git
+[submodule "TaskManagerClient"]
+	path = TaskManagerClient
+	url = https://github.com/Fuipon/TaskManagerClient.git
+[submodule "TaskManagerTestProject"]
+	path = TaskManagerTestProject
+	url = https://github.com/Fuipon/TaskManagerTestProject.git
